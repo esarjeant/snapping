@@ -1,0 +1,33 @@
+# Eclipse meta-information
+.project
+.classpath
+.settings
+
+# IDEA meeta-information
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Build directory
+target/
+build/
+bin/
+
+# SVN
+.svn
+
+# Gradle files
+.gradle
+gradlew
+gradlew.bat
+gradle
+
+# Backup files
+*~
+
+# Misc hidden files
+.DS_Store
+
+# class files
+*.class
