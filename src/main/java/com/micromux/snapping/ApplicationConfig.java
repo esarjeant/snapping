@@ -39,16 +39,4 @@ public class ApplicationConfig {
 
     }
 
-    public List<HostConfig> getHostConfigurations() {
-        return hostConfigurations;
-    }
-
-    public void addHostConfiguration(HostConfig config) {
-        this.hostConfigurations.add(config);
-    }
-
-    public void removeHostConfiguration(HostConfig config) {
-        this.hostConfigurations.remove(config);
-    }
-
 }
