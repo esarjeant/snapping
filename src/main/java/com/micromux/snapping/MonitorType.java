@@ -1,4 +1,4 @@
-package com.micromux.snapping.model;
+package com.micromux.snapping;
 
 /**
  * Type of monitor requested.
