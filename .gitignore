@@ -31,3 +31,9 @@ gradle
 
 # class files
 *.class
+
+# log files
+*.log
+
+# dynamic properties file
+git.properties
